@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/shop.css"],"names":[],"mappings":"AAAA,aACE,qBACF","file":"main.56d6e635.chunk.css","sourcesContent":[".card1:hover {\r\n  border: yellow 6px solid;\r\n}\r\n"]}

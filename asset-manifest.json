@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fortniteApp/static/css/main.56d6e635.chunk.css",
+    "main.js": "/fortniteApp/static/js/main.977ed99e.chunk.js",
+    "main.js.map": "/fortniteApp/static/js/main.977ed99e.chunk.js.map",
+    "runtime-main.js": "/fortniteApp/static/js/runtime-main.3826f97f.js",
+    "runtime-main.js.map": "/fortniteApp/static/js/runtime-main.3826f97f.js.map",
+    "static/css/2.1f208231.chunk.css": "/fortniteApp/static/css/2.1f208231.chunk.css",
+    "static/js/2.b5c80f3e.chunk.js": "/fortniteApp/static/js/2.b5c80f3e.chunk.js",
+    "static/js/2.b5c80f3e.chunk.js.map": "/fortniteApp/static/js/2.b5c80f3e.chunk.js.map",
+    "static/js/3.c9132c5b.chunk.js": "/fortniteApp/static/js/3.c9132c5b.chunk.js",
+    "static/js/3.c9132c5b.chunk.js.map": "/fortniteApp/static/js/3.c9132c5b.chunk.js.map",
+    "index.html": "/fortniteApp/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/fortniteApp/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.56d6e635.chunk.css.map": "/fortniteApp/static/css/main.56d6e635.chunk.css.map",
+    "static/js/2.b5c80f3e.chunk.js.LICENSE.txt": "/fortniteApp/static/js/2.b5c80f3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3826f97f.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.b5c80f3e.chunk.js",
+    "static/css/main.56d6e635.chunk.css",
+    "static/js/main.977ed99e.chunk.js"
+  ]
+}
