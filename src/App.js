@@ -13,6 +13,7 @@ function App() {
       <div>
         <Nav></Nav>
         <Switch>
+          <Route path="/fortniteApp" exact component={Main} />
           <Route path="/" exact component={Main} />
           <Route path="/about" component={About} />
           <Route path="/shop" component={Shop} />
