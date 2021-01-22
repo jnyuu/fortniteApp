@@ -14,9 +14,8 @@ function App() {
         <Nav></Nav>
         <Switch>
           <Route path="/fortniteApp" exact component={Main} />
-          <Route path="/" exact component={Main} />
-          <Route path="/about" component={About} />
-          <Route path="/shop" component={Shop} />
+          <Route path="/fortniteApp/about" component={About} />
+          <Route path="/fortniteApp/shop" component={Shop} />
         </Switch>
       </div>
     </Router>
