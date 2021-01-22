@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fortniteApp/static/css/main.56d6e635.chunk.css",
-    "main.js": "/fortniteApp/static/js/main.860e859c.chunk.js",
-    "main.js.map": "/fortniteApp/static/js/main.860e859c.chunk.js.map",
+    "main.js": "/fortniteApp/static/js/main.64992826.chunk.js",
+    "main.js.map": "/fortniteApp/static/js/main.64992826.chunk.js.map",
     "runtime-main.js": "/fortniteApp/static/js/runtime-main.3826f97f.js",
     "runtime-main.js.map": "/fortniteApp/static/js/runtime-main.3826f97f.js.map",
     "static/css/2.1f208231.chunk.css": "/fortniteApp/static/css/2.1f208231.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1f208231.chunk.css",
     "static/js/2.b5c80f3e.chunk.js",
     "static/css/main.56d6e635.chunk.css",
-    "static/js/main.860e859c.chunk.js"
+    "static/js/main.64992826.chunk.js"
   ]
 }
