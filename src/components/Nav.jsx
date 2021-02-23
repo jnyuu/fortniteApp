@@ -6,14 +6,14 @@ const Nav = () => {
   return (
     <nav className="navbar navbar-expand navbar-dark bg-dark " id="mainNav">
       <div className="container">
-        <Link to="/fortniteApp" className="navbar-brand js-scroll-trigger">
+        <Link to="/" className="navbar-brand js-scroll-trigger">
           Main
         </Link>
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
               <Link
-                to="/fortniteApp/about"
+                to="/about"
                 className="nav-link js-scroll-trigger"
               >
                 About
@@ -21,7 +21,7 @@ const Nav = () => {
             </li>
             <li className="nav-item">
               <Link
-                to="/fortniteApp/shop"
+                to="/shop"
                 className="nav-link js-scroll-trigger"
               >
                 Shop
